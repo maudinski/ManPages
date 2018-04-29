@@ -4,6 +4,19 @@
 Finding topics to questions asked, to be able to feed a question on the MicroSoft R-NET model.
 
 
+# Dependencies:
+
+tflearn
+nltk
+ujson
+anaconda
+tensorflow
+BeautifulSoup4 (bs4)
+
+
+# Running
+python init_qa_bot.py
+
 ## What doesn't work?
 
 All the parts work seperately
